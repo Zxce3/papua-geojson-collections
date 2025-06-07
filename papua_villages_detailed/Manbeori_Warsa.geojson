@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Manbeori_Warsa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "village": "Manbeori", "district": "Warsa", "regency": "Biak Numfor", "province": "Papua" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 135.956935346000023, -0.814073454999971, 0.0 ], [ 135.949338075000014, -0.822243500999946, 0.0 ], [ 135.947601096000085, -0.821453591999955, 0.0 ], [ 135.954923567000037, -0.813849329999925, 0.0 ], [ 135.956892709000044, -0.814048584999966, 0.0 ], [ 135.956935346000023, -0.814073454999971, 0.0 ] ] ] } }
+]
+}

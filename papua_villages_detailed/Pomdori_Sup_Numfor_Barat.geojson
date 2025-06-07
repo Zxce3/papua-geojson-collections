@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pomdori_Sup_Numfor_Barat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "village": "Pomdori Sup", "district": "Numfor Barat", "regency": "Biak Numfor", "province": "Papua" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 134.871526069000083, -1.067225812999936, 0.0 ], [ 134.873781529000098, -1.091608678999933, 0.0 ], [ 134.86932855900011, -1.090920074999929, 0.0 ], [ 134.862024, -1.089789937999967, 0.0 ], [ 134.85803038500012, -1.067225199999939, 0.0 ], [ 134.871526069000083, -1.067225812999936, 0.0 ] ] ] } }
+]
+}

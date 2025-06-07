@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sub_Manggunsi_Numfor_Barat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "village": "Sub Manggunsi", "district": "Numfor Barat", "regency": "Biak Numfor", "province": "Papua" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 134.840244151000093, -0.981293129999926, 0.0 ], [ 134.825978136000117, -0.981913197999972, 0.0 ], [ 134.817543333000117, -0.979985242999931, 0.0 ], [ 134.816579356000034, -0.974442808999925, 0.0 ], [ 134.833472418000042, -0.968968742999948, 0.0 ], [ 134.83989947800012, -0.980445127999928, 0.0 ], [ 134.840244151000093, -0.981293129999926, 0.0 ] ] ] } }
+]
+}

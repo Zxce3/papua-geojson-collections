@@ -1,0 +1,3927 @@
+[
+  {
+    "district": "Okaba",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Tanah Miring",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Muting",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Jagebob",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kurik",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Animha",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ulilin",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Merauke",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Padua",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ilwayab",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Elikobal",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kaptel",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Waan",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kimaam",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Tubang",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Malind",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Sota",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Tabonji",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kontuar",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Naukenjerai",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Semangga",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ngguti",
+    "regency": "Merauke",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Yakomi",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Edera",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Syahcame",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kaibar",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Haju",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Assue",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Minyamur",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Passue",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ti Zain",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Citak-Mitak",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Passue Bawah",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Mambioman Bapai",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Obaa",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Venaha",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Bamgi",
+    "regency": "Mappi",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Koroway Buluanop",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Atsj",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Der Koumur",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Unir Sirau",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Pulau Tiga",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Suru-suru",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Agats",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Betcbamu",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kolf Braza",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Sirets",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Safan",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Akat",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Aswi",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Fayit",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Pantai Kasuari",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Suator",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Jetsy",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Joutu",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Sawa Erma",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kopay",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ayip",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Joerat",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Awyu",
+    "regency": "Asmat",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Sesnuk",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Mandobo",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kombut",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Mindiptana",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Jair",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ambatkwi",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Arimop",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Iniyandit",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Fofi",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Manggelum",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kawagit",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Bomakia",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kouh",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Yaniruma",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ki",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Ninati",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Kombay",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Waropko",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Firiwage",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Subur",
+    "regency": "Boven Digoel",
+    "province": "Papua Selatan"
+  },
+  {
+    "district": "Mimika Timur Jauh",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Amar",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kwamki Narama",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Jila",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Agimuga",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mimika Barat",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Tembagapura",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mimika Tengah",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Alama",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kuala Kencana",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Jita",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mimika Barat Jauh",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mimika Barat Tengah",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Hoya",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wania",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mimika Baru",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mimika Timur",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Iwaka",
+    "regency": "Mimika",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yamoneri",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Waegi",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kiyage",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Torere",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Taganombak",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Nume",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wanwi",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mewoluk",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Irimuli",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Gubume",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Fawi",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Molanikime",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Ilu",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Ilamburawi",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kalome",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Tingginambut",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yamo",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mulia",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Gurage",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Lumo",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Pagaleme",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Dagai",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Dokome",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yambi",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Muara",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Nioga",
+    "regency": "Puncak Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Beoga",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Omukia",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mage'abume",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Ilaga Utara",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Amungkalpia",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Erelmakawia",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Agandugume",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Beoga Barat",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Sinak Barat",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kembru",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Bina",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mabugi",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yugumuak",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Gome",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wangbe",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Beoga Timur",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Sinak",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Gome Utara",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Ilaga",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Ogamanim",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Lambewi",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Pogoma",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Doufo",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Dervos",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Oneri",
+    "regency": "Puncak",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Muye",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Paniai Timur",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wegee Muka",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yagai",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kebo",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Aradide",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Ekadide",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Baya Biru",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Paniai Barat",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Bibida",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Teluk Deya",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Pugo Dagi",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Bogabaida",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Dogomo",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Dumadama",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wegee Bino",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Siriwo",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Aweida",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yatamo",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Deiyai Miyo",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Topiyai",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Youtadi",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Nakama",
+    "regency": "Paniai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Biandoga",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Hitadipa",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Homeyo",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Tomosiga",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Sugapa",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Ugimba",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Agisiga",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wandai",
+    "regency": "Intan Jaya",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Piyaiye",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mapia Tengah",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Dogiyai",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mapia",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kamu Timur",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kamu Selatan",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kamu",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Mapia Barat",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kamu Utara",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Sukikai Selatan",
+    "regency": "Dogiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Uwapa",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Moora",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Teluk Umar",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Makimi",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yaro",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wanggar",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Nabire Barat",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Siriwo",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Teluk Kimi",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Yaur",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Menou",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Napan",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Nabire",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Wapoga",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Dipa",
+    "regency": "Nabire",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Tigi",
+    "regency": "Deiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Tigi Barat",
+    "regency": "Deiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Tigi Timur",
+    "regency": "Deiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kapiraya",
+    "regency": "Deiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Bowobado",
+    "regency": "Deiyai",
+    "province": "Papua Tengah"
+  },
+  {
+    "district": "Kolawa",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pirime",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nikogwe",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gupura",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Awina",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wano Barat",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Balingga Barat",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ayumnati",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tiomneri",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Karu",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Melagineri",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Balingga",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Goa Balim",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Lannyna",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gelok Beam",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nogi",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wereka",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Poga",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mokoni",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bruwa",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Muara",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tiom Ollo",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yugungwi",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tiom",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yiginua",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kuly Lanny",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kuyawage",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Dimba",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Makki",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Melagi",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Buguk Gona",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gamelia",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wiringgambut",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Milimbo",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Niname",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kelulome",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gollo",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Guna",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yiluk",
+    "regency": "Lanny Jaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Danime",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yuko",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Karubaga",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Anawi",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bogonuk",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Goyage",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bokondini",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wari/Taiyeve II",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bewani",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Konda/ Kondaga",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wunim",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kubu",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Telenggeme",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kanggime",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kembu",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gundagi",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wenam",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gilubandu",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kuari",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Numba",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nelawi",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nunggawi",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Timori",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kai",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tagime",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kamboneri",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wina",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Dundu",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tagineri",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Dow",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Biuk",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Poganeri",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Li Anogomma",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bokoneri",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wugi",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Woniki",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Aweku",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Geya",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gika",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Umagi",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nabunage",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yuneri",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Egiam",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wakuwo",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Airgaram",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Panaga",
+    "regency": "Tolikara",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Welarek",
+    "regency": "Yalimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Benawa",
+    "regency": "Yalimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Abenaho",
+    "regency": "Yalimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Apalapsili",
+    "regency": "Yalimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Elelim",
+    "regency": "Yalimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Korupun",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yahuliambut",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ukha",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Amuma",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kurima",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wusama",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Silimo",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Sela",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Samenage",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ninia",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kabianggama",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Puldama",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Sobaham",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kwelemdua",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Soloikma",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Talambo",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Langda",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Suntamon",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Holuon",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Panggema",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ubahak",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nipsan",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nalca",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bomela",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Sumo",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Musaik",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Lolat",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Dirwemna",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tangma",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kayo",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Werima",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pasema",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mugi",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Dekai",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ubalihi",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Hereapini",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yogosem",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kosarek",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kwikma",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Seredela",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Obio",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Soba",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Duram",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Endomen",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Hogio",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Anggruk",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pronggoli",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Suru Suru",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kona",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Hilipuk",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Walma",
+    "regency": "Yahukimo",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Musatfak",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Trikora",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Welesi",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Silo Karno Doga",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Asologaima",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Muliama",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Asolokobal",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Asotipo",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wamena",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ibele",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bpiri",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Piramid",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bolakme",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tagineri",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yalengga",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Taelarek",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bugi",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kurulu",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Usilimo",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wesaput",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wadangku",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pisugi",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pelebaga",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wita Waya",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wolo",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Itlay Hisage",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Siepkosi",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Maima",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Hubikosi",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Molagalome",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Libarek",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tagime",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Hubikiak",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Napua",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wouma",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Walelagama",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Popugoba",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Koragi",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Walaik",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wame",
+    "regency": "Jayawijaya",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Moba",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Paro",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mebarok",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Inikgal",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mbuwa",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Iniye",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kegayem",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wosak",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Krepkuri",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pasir Putih",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yal",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nirkuri",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Embetpen",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kenyam",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Gearek",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yigi",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mbulmu Yalma",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kora",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Alama",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wutpaga",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mapenduma",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Yenggelo",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mam",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mugi",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Koroptak",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pija",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nenggeagin",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mbua Tengah",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Wusi",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kilmid",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Dal",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Geselma",
+    "regency": "Nduga",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ok Aom",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Borme",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kalomdol",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kawor",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Aboy",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kiwirok",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Okbemtau",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Okbab",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Oksop",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Okbibab",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Oksamol",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Awinbon",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Batani",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Alemsom",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Okbape",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Eipumek",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pamek",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Batom",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Teiraplu",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Tarup",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Murkim",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Bime",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Pepera",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Jetfa",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Oksibil",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Oksebang",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Weime",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Mofinop",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Serambakon",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Iwur",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Nongme",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Oklip",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Okhika",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kiwirok Timur",
+    "regency": "Pegunungan Bintang",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Eragayam",
+    "regency": "Mamberamo Tengah",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kobagma",
+    "regency": "Mamberamo Tengah",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kelila",
+    "regency": "Mamberamo Tengah",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Megambilis",
+    "regency": "Mamberamo Tengah",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Ilugwa",
+    "regency": "Mamberamo Tengah",
+    "province": "Papua Pegunungan"
+  },
+  {
+    "district": "Kuri Wamesa",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Wasior",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Rasiei",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Naikere",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Windesi",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Teluk Duairi",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Wondiboy",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Nikiwar",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Wamesa",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Roon",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Rumberpon",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Soug Jaya",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Roswar",
+    "regency": "Teluk Wondama",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Arguni",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Karas",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kramongmongga",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kokas",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Teluk Patipi",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Fak-Fak Tengah",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Bomberay",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Fak-Fak",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kayauni",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Mbahamdandara",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Tomage",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Fak-Fak Barat",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Furwagi",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Fak-Fak Timur",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Pariwari",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Wartutin",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Fakfak Timur Tengah",
+    "regency": "Fak Fak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Aroba",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Sumuri",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Fafurwar",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kuri",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Babo",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kaitaro",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Wamesa",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Merdey",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Tembuni",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Aranday",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Bintuni",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Manimeri",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Meyado",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Moskona Selatan",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kamundan",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Dataran Beimes",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Tomu",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Biscoop",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Moskona Timur",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Moskona Utara",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Moskona Barat",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Masyeta",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Tuhiba",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Weriagar",
+    "regency": "Teluk Bintuni",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kambrau",
+    "regency": "Kaimana",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Teluk Etna",
+    "regency": "Kaimana",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Teluk Arguni Atas",
+    "regency": "Kaimana",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Buruway",
+    "regency": "Kaimana",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Kaimana",
+    "regency": "Kaimana",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Teluk Arguni Bawah",
+    "regency": "Kaimana",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Yamor",
+    "regency": "Kaimana",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Ransiki",
+    "regency": "Manokwari Selatan",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Oransbari",
+    "regency": "Manokwari Selatan",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Neney",
+    "regency": "Manokwari Selatan",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Momi Waren",
+    "regency": "Manokwari Selatan",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Dataran Isim",
+    "regency": "Manokwari Selatan",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Tahota",
+    "regency": "Manokwari Selatan",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Manokwari Selatan",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Prafi",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Manokwari Timur",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Warmare",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Manokwari Barat",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Manokwari Utara",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Masni",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Tanah Rubuh",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Sidey",
+    "regency": "Manokwari",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Minyambaouw",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Catubouw",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Taige",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Sururey",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Hingk",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Testega",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Anggi",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Didohu",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Membey",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Anggi Gida",
+    "regency": "Pegunungan Arfak",
+    "province": "Papua Barat"
+  },
+  {
+    "district": "Yaffi",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Waris",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Arso Timur",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Arso",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Skanto",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Arso Barat",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Towe",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Senggi",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Kaisenar",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Mannem",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Web",
+    "regency": "Keerom",
+    "province": "Papua"
+  },
+  {
+    "district": "Jayapura Utara",
+    "regency": "Kota Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Jayapura Selatan",
+    "regency": "Kota Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Abepura",
+    "regency": "Kota Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Muara Tami",
+    "regency": "Kota Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Heram",
+    "regency": "Kota Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Kirihi",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Inggerus",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Wapoga",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Demba",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Wonti",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Walani",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Risei Sayati",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Masirei",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Oudate",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Urei Faisei",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Waropen Bawah",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Soyoi Mambai",
+    "regency": "Waropen",
+    "province": "Papua"
+  },
+  {
+    "district": "Sentani Timur",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Ebungfao",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Airu",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Waibu",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Gresi Selatan",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Unurum Guay",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Kemtuk",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Nimboran",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Nimbokrang",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Nambluong",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Kemtuk Gresi",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Yapsi",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Sentani Barat",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Kaureh",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Sentani",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Yokari",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Depapre",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Raveni Rara",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Demta",
+    "regency": "Jayapura",
+    "province": "Papua"
+  },
+  {
+    "district": "Rufaer",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Mamberamo Tengah Timur",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Mamberamo Hulu",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Waropen Atas",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Mamberamo Tengah",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Benuki",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Sawai",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Mamberamo Hilir",
+    "regency": "Mamberamo Raya",
+    "province": "Papua"
+  },
+  {
+    "district": "Pantai Timur",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Tor Atas",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Bonggo Timur",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Bonggo",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Pantai Timur Bagian Barat",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Apawer Hulu",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Sarmi Selatan",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Pantai Barat",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Sarmi",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Sarmi Timur",
+    "regency": "Sarmi",
+    "province": "Papua"
+  },
+  {
+    "district": "Samofa",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Yendidori",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Biak Timur",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Warsa",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Bruyadori",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Biak Barat",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Biak Utara",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Poiru",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Swandiwe",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Oridek",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Biak Kota",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Aimando Padaido",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Andey",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Numfor Timur",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Yawosi",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Padaido",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Numfor Barat",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Bondifuar",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Orkeri",
+    "regency": "Biak Numfor",
+    "province": "Papua"
+  },
+  {
+    "district": "Kepulauan Ambai",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Wonawa",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Raimbawi",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Angkaisera",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Kosiwo",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Teluk Ampimoi",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Anotaurei",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Pulau Kurudu",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Yapen Barat",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Windesi",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Pulau Yerui",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Yapen Timur",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Yapen Selatan",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Yawakukat",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Yapen Utara",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Poom",
+    "regency": "Kepulauan Yapen",
+    "province": "Papua"
+  },
+  {
+    "district": "Supiori Barat",
+    "regency": "Supiori",
+    "province": "Papua"
+  },
+  {
+    "district": "Kepulauan Aruri",
+    "regency": "Supiori",
+    "province": "Papua"
+  },
+  {
+    "district": "Supiori Selatan",
+    "regency": "Supiori",
+    "province": "Papua"
+  },
+  {
+    "district": "Supiori Timur",
+    "regency": "Supiori",
+    "province": "Papua"
+  },
+  {
+    "district": "Supiori Utara",
+    "regency": "Supiori",
+    "province": "Papua"
+  },
+  {
+    "district": "Salawati Barat",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayau",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Misool (Misool Utara)",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Batanta Selatan",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Waigeo Utara",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Tiplol Mayalibit",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Meos Mansar",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Batanta Utara",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Misool Timur",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kofiau",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Waigeo Barat",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Misool Barat",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kepulauan Ayau",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Warwarbomi",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kota Waisai",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Misool Selatan",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Supnin",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Waigeo Selatan",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Waigeo Barat Kepulauan",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Salawati Utara",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Teluk Mayalibit",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Salawati Tengah",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kepulauan Sembilan",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Waigeo Timur",
+    "regency": "Raja Ampat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Jaya",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aitinyo",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aifat Timur Tengah",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aifat Timur Jauh",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aifat Timur",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aifat",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Utara",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Selatan Jaya",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aifat Selatan",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aitinyo Utara",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aitinyo Tengah",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aifat Utara",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Mare",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Tengah",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Barat",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aitinyo Raya",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Timur",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Timur Selatan",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Mare Selatan",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aitinyo Barat",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Utara Timur",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ayamaru Selatan",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aifat Timur Selatan",
+    "regency": "Maybrat",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kokoda Utara",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Teminabuan",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Salkma",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kokoda",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Wayer",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Konda",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Matemani",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Fokour",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kais",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Moswaren",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sawiat",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kais Darat",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Seremuk",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Inanwatan",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Saifi",
+    "regency": "Sorong Selatan",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Mawabuan",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Miyah",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ireres",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kebar Selatan",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Manekar",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kebar",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Wilhem Roumbouts",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kebar Timur",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Senopi",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Mpur",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Mubrani",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Ases",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Miyah Selatan",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Bamusbama",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Fef",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Syujak",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kwesefo",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kwoor",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Yembun",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Bikar",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Amberbaken",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sausapor",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Moraid",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Selemkai",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Tinggouw",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Amberbaken Barat",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Kasi",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Tobouw",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Abun",
+    "regency": "Tambrauw",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Aimas",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Mayamuk",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Beraur",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Makbon",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Bagun",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Klasafet",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Salawati Tengah",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Klawak",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Maudus",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Botain",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sunook",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Hobard",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Buk",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Salawati Selatan",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Mariat",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Segun",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Klamono",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Klabot",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Wemak",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Seget",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Salawati",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sayosa Timur",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Moisegen",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Konhir",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Saengkeduk",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Malabotom",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sayosa",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Klaso",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Klayili",
+    "regency": "Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong Kepulauan",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Klaurung",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong Kota",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Malaimsimsa",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong Timur",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong Manoi",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong Barat",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Sorong Utara",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  },
+  {
+    "district": "Maladum Mes",
+    "regency": "Kota Sorong",
+    "province": "Papua Barat Daya"
+  }
+]
