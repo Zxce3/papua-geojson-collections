@@ -1,108 +1,81 @@
 # Papua GeoJSON Collections
 
-Comprehensive, machine-readable geographic boundary data for Papua provinces in Indonesia, organized by administrative hierarchy and provided in GeoJSON format for spatial analysis, GIS, and web mapping applications.
+Complete administrative boundary dataset for Papua provinces in Indonesia with REST API.
 
-## 📍 Overview
+## Overview
 
-This repository provides authoritative, up-to-date administrative boundaries for all Papua regions in Indonesia, including the latest province splits. Data is structured hierarchically (province → regency → district → village) and is suitable for programmatic access, geospatial analytics, and integration with mapping frameworks.
+- **8,205 GeoJSON files** covering all Papua administrative levels
+- **REST API v2.0** with caching and search capabilities
+- **RFC 7946 compliant** GeoJSON format
+- **Production ready** with performance optimizations
 
-## 🗺️ Coverage
+## Data Structure
 
-### Papua Provinces (6 Total)
-- **Papua** - The original eastern province
-- **Papua Barat** - West Papua province  
-- **Papua Tengah** - Central Papua (new province)
-- **Papua Pegunungan** - Highland Papua (new province)
-- **Papua Selatan** - South Papua (new province)
-- **Papua Barat Daya** - Southwest Papua (new province)
+```
+Level 1: 6 provinces     → 6 files
+Level 2: 42 regencies    → 42 files  
+Level 3: 785 districts   → 785 files
+Level 4: 7,372 villages  → 7,372 files
+```
 
-#### Regency Count
-- **Total Regencies:** 42  
-  *(as of current data files in `papua_regencies/`)*
-
-## 📁 Directory Structure
-
+### Directory Layout
 ```
 papua-geojson-collections/
-├── papua_provinces/              # Province-level boundaries (6 files, GeoJSON)
-├── papua_regencies/              # Regency-level boundaries (42 files, GeoJSON)
-├── papua_districts_detailed/     # District-level boundaries (785 files, GeoJSON)
-├── papua_villages_detailed/      # Village-level boundaries (7,372 files, GeoJSON)
-└── papua_structured_data/        # Administrative hierarchy & statistics (JSON)
-    ├── papua_administrative_structure.json
-    ├── papua_administrative_summary.json
-    ├── papua_provinces_list.json
-    ├── papua_regencies_list.json
-    └── papua_districts_list.json
+├── papua_provinces/              # 6 province files
+├── papua_regencies/              # 42 regency files
+├── papua_districts_detailed/     # 785 district files
+├── papua_villages_detailed/      # 7,372 village files
+├── papua_structured_data/        # JSON metadata
+└── index.php                     # REST API
 ```
 
-- **GeoJSON files** are RFC 7946 compliant, UTF-8 encoded, and use WGS84 (EPSG:4326).
-- **Structured JSON** files provide fast lookup and programmatic access to the hierarchy.
+## Quick Start
 
-## 📊 Administrative Hierarchy
+### Direct File Access
+```bash
+# Download a province boundary
+curl -O http://api.example.com/papua_provinces/PAPUA.geojson
 
-### Level 1: Provinces
-Each province is a single GeoJSON file:
-- `PAPUA.geojson`
-- `PAPUA_BARAT.geojson`
-- `PAPUA_TENGAH.geojson`
-- `PAPUA_PEGUNUNGAN.geojson`
-- `PAPUA_SELATAN.geojson`
-- `PAPUA_BARAT_DAYA.geojson`
-
-### Level 2: Regencies (Kabupaten/Kota)
-Format: `{regency_name}_{province_name}.geojson`
-- Example: `Jayapura_PAPUA.geojson`, `Manokwari_PAPUA_BARAT.geojson`
-
-### Level 3: Districts (Kecamatan)
-Format: `{district_name}_{regency_name}.geojson`
-- Example: `Wamena_Jayawijaya.geojson`, `Sentani_Jayapura.geojson`
-
-### Level 4: Villages (Kelurahan/Desa)
-Format: `{village_name}_{district_name}.geojson`
-- Example: `Wamena_Wamena.geojson`, `Sentani_Kota_Sentani.geojson`
-
-## 🔧 Data Schema
-
-All GeoJSON files use a consistent property schema for interoperability with GIS tools and code.
-
-### Province Level
-```json
-{
-  "type": "Feature",
-  "properties": {
-    "province": "PAPUA"
-  },
-  "geometry": { /* ... */ }
-}
+# Load with Python
+import geopandas as gpd
+gdf = gpd.read_file('papua_provinces/PAPUA.geojson')
 ```
 
-### Regency Level
-```json
-{
-  "type": "Feature",
-  "properties": {
-    "regency": "JAYAPURA",
-    "province": "PAPUA"
-  },
-  "geometry": { /* ... */ }
-}
+### REST API Usage
+```bash
+# List all provinces
+curl "http://api.example.com/?q=provinces"
+
+# Search regencies containing "jay"
+curl "http://api.example.com/?q=search/regency/jay"
+
+# Get GeoJSON data
+curl "http://api.example.com/?q=geojson/province/PAPUA"
 ```
 
-### District Level
-```json
-{
-  "type": "Feature",
-  "properties": {
-    "district": "SENTANI",
-    "regency": "JAYAPURA", 
-    "province": "PAPUA"
-  },
-  "geometry": { /* ... */ }
-}
-```
+## API Endpoints
 
-### Village Level
+| Endpoint | Description |
+|----------|-------------|
+| `/provinces` | List province files |
+| `/regencies/{province?}` | List regency files |
+| `/districts/{regency?}` | List district files |
+| `/villages/{district?}` | List village files |
+| `/search/{level}/{query}` | Search by substring |
+| `/autocomplete/{level}/{prefix}` | Autocomplete by prefix |
+| `/geojson/{level}/{filename}` | Get GeoJSON data |
+| `/structured/{type}` | Get JSON metadata |
+| `/cache` | Cache statistics |
+
+## File Naming
+
+- **Province:** `PAPUA.geojson`
+- **Regency:** `Jayapura_PAPUA.geojson`
+- **District:** `Sentani_Jayapura.geojson`
+- **Village:** `Sentani_Kota_Sentani.geojson`
+
+## Data Schema
+
 ```json
 {
   "type": "Feature",
@@ -116,115 +89,45 @@ All GeoJSON files use a consistent property schema for interoperability with GIS
 }
 ```
 
-## 📋 Structured Data Files
 
-### Administrative Structure (`papua_administrative_structure.json`)
-Hierarchical JSON for fast programmatic lookup:
+## Installation
 
-```json
-{
-  "PAPUA": {
-    "JAYAPURA": {
-      "SENTANI": ["SENTANI KOTA", "DOYO BARU", "..."],
-      "WAMENA": ["WAMENA", "HUBIKIAK", "..."]
-    }
-  }
-}
-```
+1. **Clone repository:**
+   ```bash
+   git clone https://github.com/zxce3/papua-geojson-collections.git
+   cd papua-geojson-collections
+   ```
 
-### Summary Statistics (`papua_administrative_summary.json`)
-Aggregate counts for automation and validation:
+2. **Start API server:**
+   ```bash
+   php -S 0.0.0.0:8080
+   ```
 
-```json
-{
-  "total_provinces": 6,
-  "total_regencies": 42,
-  "total_districts": 785,
-  "total_villages": 7372,
-  "provinces": {
-    "PAPUA": {
-      "regencies_count": 8,
-      "districts_count": 41,
-      "villages_count": 412
-    }
-  }
-}
-```
+3. **Test API:**
+   ```bash
+   curl http://localhost:8080/?q=provinces
+   ```
 
-## 🚀 Usage Examples
+## Features
 
-### JavaScript (Leaflet, Mapbox GL, etc.)
-```javascript
-// Load province boundaries (Leaflet)
-fetch('papua_provinces/PAPUA.geojson')
-  .then(r => r.json())
-  .then(data => L.geoJSON(data).addTo(map));
+- ✅ **Case-insensitive search** - Find files regardless of case
+- ✅ **Autocomplete** - Prefix-based filename matching
+- ✅ **Caching** - 1-hour TTL for improved performance
+- ✅ **Error handling** - Detailed error messages
+- ✅ **Validation** - GeoJSON format compliance
 
-// Load a district with custom style
-fetch('papua_districts_detailed/Wamena_Jayawijaya.geojson')
-  .then(r => r.json())
-  .then(data => L.geoJSON(data, { style: { color: 'blue', weight: 2 } }).addTo(map));
-```
+## Data Quality
 
-### Python (GeoPandas, Pandas)
-```python
-import geopandas as gpd
-import glob
-import pandas as pd
-
-# Load province data
-papua_province = gpd.read_file('papua_provinces/PAPUA.geojson')
-
-# Load all regencies from Papua Barat
-regencies = [gpd.read_file(f) for f in glob.glob('papua_regencies/*_PAPUA_BARAT.geojson')]
-combined_regencies = gpd.GeoDataFrame(pd.concat(regencies, ignore_index=True))
-```
-
-### Administrative Lookup (Python)
-```python
-import json
-
-with open('papua_structured_data/papua_administrative_structure.json') as f:
-    admin_data = json.load(f)
-
-# List all districts in Jayapura regency
-jayapura_districts = list(admin_data['PAPUA']['JAYAPURA'].keys())
-
-# List all villages in Sentani district
-sentani_villages = admin_data['PAPUA']['JAYAPURA']['SENTANI']
-```
-
-### CLI & Automation
-
-- **Validate GeoJSON:**  
-  `geojsonlint papua_provinces/PAPUA.geojson`
-- **Convert to Shapefile:**  
-  `ogr2ogr -f "ESRI Shapefile" output.shp papua_provinces/PAPUA.geojson`
-- **Batch process:**  
-  Use shell scripts or Python to iterate over files for ETL or analytics.
-
-## 🎯 Use Cases
-
-- Regional planning and spatial analysis
-- Web mapping and interactive dashboards
-- Geocoding and location-based services
-- Demographic, environmental, and infrastructure research
-- Automated data pipelines and GIS integration
-
-## 📏 Data Quality & Standards
-
-- **CRS:** EPSG:4326 (WGS84)
+- **Coordinate System:** EPSG:4326 (WGS84)
 - **Format:** GeoJSON (RFC 7946)
-- **Precision:** Suitable for 1:10,000 scale mapping
-- **Validation:** All files checked for GeoJSON compliance and geometric validity
-- **Naming:** All filenames are ASCII-safe and cross-platform compatible
+- **Precision:** 6 decimal places
+- **Validation:** No self-intersections
+- **File sizes:** 1KB - 12MB per file
 
-## 🔄 Data Updates & Provenance
+## Source
 
-- Data reflects the administrative structure as of 2023, including all new provinces.
-- Source: Official Indonesian government shapefiles ([Indonesia Geospasial](https://www.indonesia-geospasial.com/)), Batas Wilayah Kelurahan/Desa 1:10,000.
-- Updates are versioned and changelogged for reproducibility.
+Data from official Indonesian government boundaries (Indonesia Geospasial), updated 2023 including new Papua provinces.
 
-## 📄 License
+## License
 
-Geographic data derived from official Indonesian government sources. Please verify licensing requirements for your specific use case.
+Geographic data derived from official Indonesian government sources. Verify licensing for your use case.
