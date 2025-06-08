@@ -26,7 +26,9 @@ papua-geojson-collections/
 ├── papua_districts_detailed/     # 785 district files
 ├── papua_villages_detailed/      # 7,372 village files
 ├── papua_structured_data/        # JSON metadata
-└── index.php                     # REST API
+├── index.php                     # REST API
+├── README.md                     # This file
+└── API_DOCS.md                   # Complete API documentation
 ```
 
 ## Quick Start
@@ -66,6 +68,8 @@ curl "http://api.example.com/?q=geojson/province/PAPUA"
 | `/geojson/{level}/{filename}` | Get GeoJSON data |
 | `/structured/{type}` | Get JSON metadata |
 | `/cache` | Cache statistics |
+
+**📖 Complete API documentation:** See [API_DOCS.md](API_DOCS.md) for detailed endpoint specifications, examples, and troubleshooting.
 
 ## File Naming
 
@@ -131,3 +135,57 @@ Data from official Indonesian government boundaries (Indonesia Geospasial), upda
 ## License
 
 Geographic data derived from official Indonesian government sources. Verify licensing for your use case.
+
+## Usage Examples
+
+### JavaScript
+```javascript
+// Fetch province data
+const response = await fetch('http://api.example.com/?q=geojson/province/PAPUA');
+const geojson = await response.json();
+
+// Add to Leaflet map
+L.geoJSON(geojson).addTo(map);
+```
+
+### Python
+```python
+import requests
+import geopandas as gpd
+
+# Get regency list
+regencies = requests.get('http://api.example.com/?q=regencies/PAPUA').json()
+
+# Load multiple regencies
+gdfs = []
+for regency in regencies:
+    url = f'http://api.example.com/?q=geojson/regency/{regency}'
+    gdf = gpd.read_file(url)
+    gdfs.append(gdf)
+
+combined = gpd.GeoDataFrame(pd.concat(gdfs, ignore_index=True))
+```
+
+### Shell
+```bash
+# Validate all province files
+for file in papua_provinces/*.geojson; do
+    geojsonlint "$file" && echo "✓ $file" || echo "✗ $file"
+done
+
+# Convert to Shapefile
+ogr2ogr -f "ESRI Shapefile" output.shp papua_provinces/PAPUA.geojson
+```
+
+## Documentation
+
+- **[API_DOCS.md](API_DOCS.md)** - Complete API reference with examples
+- **[README.md](README.md)** - This overview document
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test the API functionality
+5. Submit a pull request
