@@ -1,10 +1,10 @@
 # Papua GeoJSON Collections
 
-Comprehensive geographic boundary data for Papua provinces in Indonesia, organized by administrative hierarchy and provided in GeoJSON format for web mapping applications.
+Comprehensive, machine-readable geographic boundary data for Papua provinces in Indonesia, organized by administrative hierarchy and provided in GeoJSON format for spatial analysis, GIS, and web mapping applications.
 
 ## 📍 Overview
 
-This collection contains complete administrative boundaries for all Papua regions in Indonesia, featuring the latest territorial divisions including the newly established provinces. The data is structured hierarchically from province level down to individual villages, making it suitable for detailed geographic analysis and web mapping applications.
+This repository provides authoritative, up-to-date administrative boundaries for all Papua regions in Indonesia, including the latest province splits. Data is structured hierarchically (province → regency → district → village) and is suitable for programmatic access, geospatial analytics, and integration with mapping frameworks.
 
 ## 🗺️ Coverage
 
@@ -16,15 +16,19 @@ This collection contains complete administrative boundaries for all Papua region
 - **Papua Selatan** - South Papua (new province)
 - **Papua Barat Daya** - Southwest Papua (new province)
 
+#### Regency Count
+- **Total Regencies:** 42  
+  *(as of current data files in `papua_regencies/`)*
+
 ## 📁 Directory Structure
 
 ```
 papua-geojson-collections/
-├── papua_provinces/              # Province-level boundaries (6 files)
-├── papua_regencies/              # Regency-level boundaries (~29 files)  
-├── papua_districts_detailed/     # District-level boundaries (~200+ files)
-├── papua_villages_detailed/      # Village-level boundaries (~2000+ files)
-└── papua_structured_data/        # Administrative hierarchy & statistics
+├── papua_provinces/              # Province-level boundaries (6 files, GeoJSON)
+├── papua_regencies/              # Regency-level boundaries (42 files, GeoJSON)
+├── papua_districts_detailed/     # District-level boundaries (785 files, GeoJSON)
+├── papua_villages_detailed/      # Village-level boundaries (7,372 files, GeoJSON)
+└── papua_structured_data/        # Administrative hierarchy & statistics (JSON)
     ├── papua_administrative_structure.json
     ├── papua_administrative_summary.json
     ├── papua_provinces_list.json
@@ -32,10 +36,13 @@ papua-geojson-collections/
     └── papua_districts_list.json
 ```
 
+- **GeoJSON files** are RFC 7946 compliant, UTF-8 encoded, and use WGS84 (EPSG:4326).
+- **Structured JSON** files provide fast lookup and programmatic access to the hierarchy.
+
 ## 📊 Administrative Hierarchy
 
 ### Level 1: Provinces
-Individual GeoJSON files for each Papua province:
+Each province is a single GeoJSON file:
 - `PAPUA.geojson`
 - `PAPUA_BARAT.geojson`
 - `PAPUA_TENGAH.geojson`
@@ -45,74 +52,74 @@ Individual GeoJSON files for each Papua province:
 
 ### Level 2: Regencies (Kabupaten/Kota)
 Format: `{regency_name}_{province_name}.geojson`
-Examples:
-- `Jayapura_PAPUA.geojson`
-- `Manokwari_PAPUA_BARAT.geojson`
-- `Mimika_PAPUA_TENGAH.geojson`
+- Example: `Jayapura_PAPUA.geojson`, `Manokwari_PAPUA_BARAT.geojson`
 
 ### Level 3: Districts (Kecamatan)
 Format: `{district_name}_{regency_name}.geojson`
-Examples:
-- `Wamena_Jayawijaya.geojson`
-- `Sentani_Jayapura.geojson`
-- `Manokwari_Barat_Manokwari.geojson`
+- Example: `Wamena_Jayawijaya.geojson`, `Sentani_Jayapura.geojson`
 
 ### Level 4: Villages (Kelurahan/Desa)
 Format: `{village_name}_{district_name}.geojson`
-Examples:
-- `Wamena_Wamena.geojson`
-- `Sentani_Kota_Sentani.geojson`
+- Example: `Wamena_Wamena.geojson`, `Sentani_Kota_Sentani.geojson`
 
-## 🔧 Data Properties
+## 🔧 Data Schema
 
-Each GeoJSON file contains features with the following properties:
+All GeoJSON files use a consistent property schema for interoperability with GIS tools and code.
 
 ### Province Level
 ```json
 {
+  "type": "Feature",
   "properties": {
     "province": "PAPUA"
-  }
+  },
+  "geometry": { /* ... */ }
 }
 ```
 
 ### Regency Level
 ```json
 {
+  "type": "Feature",
   "properties": {
     "regency": "JAYAPURA",
     "province": "PAPUA"
-  }
+  },
+  "geometry": { /* ... */ }
 }
 ```
 
 ### District Level
 ```json
 {
+  "type": "Feature",
   "properties": {
     "district": "SENTANI",
     "regency": "JAYAPURA", 
     "province": "PAPUA"
-  }
+  },
+  "geometry": { /* ... */ }
 }
 ```
 
 ### Village Level
 ```json
 {
+  "type": "Feature",
   "properties": {
     "village": "SENTANI KOTA",
     "district": "SENTANI",
     "regency": "JAYAPURA",
     "province": "PAPUA"
-  }
+  },
+  "geometry": { /* ... */ }
 }
 ```
 
 ## 📋 Structured Data Files
 
 ### Administrative Structure (`papua_administrative_structure.json`)
-Complete hierarchical organization showing the relationship between all administrative levels:
+Hierarchical JSON for fast programmatic lookup:
 
 ```json
 {
@@ -126,19 +133,19 @@ Complete hierarchical organization showing the relationship between all administ
 ```
 
 ### Summary Statistics (`papua_administrative_summary.json`)
-Aggregate counts and statistics:
+Aggregate counts for automation and validation:
 
 ```json
 {
   "total_provinces": 6,
-  "total_regencies": 29,
-  "total_districts": 200+,
-  "total_villages": 2000+,
+  "total_regencies": 42,
+  "total_districts": 785,
+  "total_villages": 7372,
   "provinces": {
     "PAPUA": {
-      "regencies_count": 12,
-      "districts_count": 85,
-      "villages_count": 800+
+      "regencies_count": 8,
+      "districts_count": 41,
+      "villages_count": 412
     }
   }
 }
@@ -146,96 +153,77 @@ Aggregate counts and statistics:
 
 ## 🚀 Usage Examples
 
-### Web Mapping with Leaflet
+### JavaScript (Leaflet, Mapbox GL, etc.)
 ```javascript
-// Load province boundaries
+// Load province boundaries (Leaflet)
 fetch('papua_provinces/PAPUA.geojson')
-  .then(response => response.json())
-  .then(data => {
-    L.geoJSON(data).addTo(map);
-  });
+  .then(r => r.json())
+  .then(data => L.geoJSON(data).addTo(map));
 
-// Load specific district
+// Load a district with custom style
 fetch('papua_districts_detailed/Wamena_Jayawijaya.geojson')
-  .then(response => response.json())
-  .then(data => {
-    L.geoJSON(data, {
-      style: { color: 'blue', weight: 2 }
-    }).addTo(map);
-  });
+  .then(r => r.json())
+  .then(data => L.geoJSON(data, { style: { color: 'blue', weight: 2 } }).addTo(map));
 ```
 
-### Python with GeoPandas
+### Python (GeoPandas, Pandas)
 ```python
 import geopandas as gpd
+import glob
+import pandas as pd
 
 # Load province data
 papua_province = gpd.read_file('papua_provinces/PAPUA.geojson')
 
 # Load all regencies from Papua Barat
-regencies = []
-for file in glob.glob('papua_regencies/*_PAPUA_BARAT.geojson'):
-    regencies.append(gpd.read_file(file))
-
+regencies = [gpd.read_file(f) for f in glob.glob('papua_regencies/*_PAPUA_BARAT.geojson')]
 combined_regencies = gpd.GeoDataFrame(pd.concat(regencies, ignore_index=True))
 ```
 
-### Administrative Lookup
+### Administrative Lookup (Python)
 ```python
 import json
 
-# Load administrative structure
 with open('papua_structured_data/papua_administrative_structure.json') as f:
     admin_data = json.load(f)
 
-# Find all districts in Jayapura regency
+# List all districts in Jayapura regency
 jayapura_districts = list(admin_data['PAPUA']['JAYAPURA'].keys())
-print(f"Districts in Jayapura: {jayapura_districts}")
 
-# Find all villages in Sentani district
+# List all villages in Sentani district
 sentani_villages = admin_data['PAPUA']['JAYAPURA']['SENTANI']
-print(f"Villages in Sentani: {len(sentani_villages)} villages")
 ```
+
+### CLI & Automation
+
+- **Validate GeoJSON:**  
+  `geojsonlint papua_provinces/PAPUA.geojson`
+- **Convert to Shapefile:**  
+  `ogr2ogr -f "ESRI Shapefile" output.shp papua_provinces/PAPUA.geojson`
+- **Batch process:**  
+  Use shell scripts or Python to iterate over files for ETL or analytics.
 
 ## 🎯 Use Cases
 
-### Regional Planning
-- Analyze administrative boundaries for development planning
-- Calculate areas and distances between regions
-- Overlay with other geographic datasets
+- Regional planning and spatial analysis
+- Web mapping and interactive dashboards
+- Geocoding and location-based services
+- Demographic, environmental, and infrastructure research
+- Automated data pipelines and GIS integration
 
-### Web Applications
-- Interactive maps showing Papua administrative divisions
-- Location-based services and geocoding
-- Regional data visualization dashboards
+## 📏 Data Quality & Standards
 
-### Research & Analysis
-- Demographic and socioeconomic analysis by administrative unit
-- Environmental monitoring and conservation planning
-- Transportation and infrastructure planning
+- **CRS:** EPSG:4326 (WGS84)
+- **Format:** GeoJSON (RFC 7946)
+- **Precision:** Suitable for 1:10,000 scale mapping
+- **Validation:** All files checked for GeoJSON compliance and geometric validity
+- **Naming:** All filenames are ASCII-safe and cross-platform compatible
 
-## 📏 Data Quality
+## 🔄 Data Updates & Provenance
 
-### Coordinate System
-- **CRS**: EPSG:4326 (WGS84 Geographic)
-- **Format**: GeoJSON (RFC 7946 compliant)
-- **Precision**: Suitable for 1:10,000 scale mapping
-
-### Validation
-- All GeoJSON files validated for syntax correctness
-- Geometric validity checked (no self-intersections)
-- Administrative hierarchy consistency verified
-- Filename safety ensured for cross-platform compatibility
-
-## 🔄 Data Updates
-
-This collection is generated from official Indonesian administrative boundary data and reflects the administrative structure as of 2023, including the newest Papua province divisions.
-
-### Source Data
-- Original shapefile from [Indonesia Geospasial](https://www.indonesia-geospasial.com/)
-- Administrative boundary data (Batas Wilayah Kelurahan/Desa 1:10,000)
-- Updated to reflect latest territorial changes
-
+- Data reflects the administrative structure as of 2023, including all new provinces.
+- Source: Official Indonesian government shapefiles ([Indonesia Geospasial](https://www.indonesia-geospasial.com/)), Batas Wilayah Kelurahan/Desa 1:10,000.
+- Updates are versioned and changelogged for reproducibility.
 
 ## 📄 License
 
